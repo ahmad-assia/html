@@ -1,0 +1,46 @@
+header{
+    text-align: center;
+    font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;
+text-decoration: underline;
+}
+menu{
+  text-align: left;  
+  font-size:50px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-style:italic
+
+}
+item{display: block;
+    text-align: left;
+    font: italic;
+    font-size: 20px;
+}
+ul{
+    text-align: left;
+    font-size: 25px;
+    font:oblique;
+    font-family:sans-serif;
+    
+}
+img{
+float:right;
+position: absolute;
+top:0px;
+right:0px;
+}
+.nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 12px;
+    font-size: 25px;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  body{
+      background-color:floralwhite;
+  }
+   
